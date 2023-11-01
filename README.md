@@ -7,9 +7,8 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
-  <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://ko-fi.com/chatcool"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+  <a href="https://discord.gg/0xmarWan7A#2261"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://ko-fi.com/0xmarwan7a"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 <a href="https://github.com/0xmarWan7A?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0xmarWan7A?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/0xmarWan7A"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/0xmarWan7A?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
@@ -44,13 +43,13 @@
 - 🌱 Learning Node.js & more
 - 📫 How to contact me: marwanhassaan2001@gmail.com, 
 
-Support ChatCool on KoFi:
+Support 0xmarWan7A on KoFi:
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/0xmarwan7a)
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/0xmarWan7A"><img src="https://skillicons.dev/icons?i=vscode,postman,github,mongodb,css,html,js,express,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/0xmarWan7A"><img src="https://skillicons.dev/icons?i=linux,vscode,postman,github,python,html,css,js,mongodb,express,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -69,5 +68,5 @@ Support ChatCool on KoFi:
   <p align="left">
      <a href="https://github.com/0xmarWan7A/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/0xmarWan7A/eagle-eye"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=eagle-eye&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/0xmarWan7A/ChromeX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=chromeX&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/0xmarWan7A/ChromeX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=ChromeX&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
