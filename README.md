@@ -50,7 +50,7 @@ Support ChatCool on KoFi:
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/0xmarWan7A"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/0xmarWan7A"><img src="https://skillicons.dev/icons?i=vscode,postman,github,mongodb,css,html,js,express,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -68,6 +68,6 @@ Support ChatCool on KoFi:
 ## Top Respositorys
   <p align="left">
      <a href="https://github.com/0xmarWan7A/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/0xmarWan7A/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/0xmarWan7A/eagle-eye"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=eagle-eye&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
