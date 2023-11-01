@@ -1,31 +1,73 @@
-# Hi there, I'm Marwan! 👋
+## Introduction
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Web%20Application%20Backend%20Developer;Contributed%20to%201500+%2B%20servers%20inside%20Discord;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=0xmarWan7A&show_icons=true&theme=gruvbox"/>
-<img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmarWan7A&layout=compact&&theme=gruvbox"/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<h3 align="center">Hey there, I'm <a href="https://github.com/0xmarWan7A">0xmarWan7A</a></h3>
+<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
-# 📚 Frameworks and Libraries
-<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img align="left" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-<img align="left" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
-<br/>
-<br/>
-<br/>
+<p align="center">
+  <a href="https://discord.gg/79ucHtZn5w"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/Thinkright20"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://ko-fi.com/chatcool"><img alt="Kofi" title="Kofi" src="https://img.shields.io/badge/-Kofi-ff7389?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+<a href="https://github.com/0xmarWan7A?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0xmarWan7A?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
+   <a href="https://github.com/0xmarWan7A"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/0xmarWan7A?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+ </p>
+ 
+## Profile Views
 
-# 📋 Programming Languages
 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<br/>
-<br/>
-<br/>
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/0xmarWan7A"><img src="https://github.com/Thinkright20.png" alt="@0xmarWan7A" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/0xmarWan7A"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/0xmarWan7A"> <img src="https://komarev.com/ghpvc/?username=0xmarWan7A&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
-# 💾 Databases and ORM
-<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+## What I'm Doing
 
+- 🔭 Working on E-Commerce web application
+- 🌱 Learning Node.js & more
+- 📫 How to contact me: marwanhassaan2001@gmail.com, 
+
+Support ChatCool on KoFi:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7JKG27)
+
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/0xmarWan7A"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=0xmarWan7A&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/0xmarWan7A">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=0xmarWan7A&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+## Top Respositorys
+  <p align="left">
+     <a href="https://github.com/0xmarWan7A/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/0xmarWan7A/IP-Finder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=IP-Finder&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ChatCool-Inc/chatcool"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ChatCool-Inc&repo=chatcool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
