@@ -54,6 +54,8 @@ Support 0xmarWan7A on KoFi:
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=0xmarWan7A&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xmarWan7A&layout=compact&theme=gruvbox"/>
+
 </p>
 
 ## Activity On GitHub
