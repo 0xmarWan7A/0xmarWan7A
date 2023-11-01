@@ -66,7 +66,6 @@ Support 0xmarWan7A on KoFi:
 
 ## Top Respositorys
   <p align="left">
-     <a href="https://github.com/0xmarWan7A/Profile-Badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=Profile-Badges&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/0xmarWan7A/eagle-eye"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=eagle-eye&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/0xmarWan7A/ChromeX"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=0xmarWan7A&repo=ChromeX&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
